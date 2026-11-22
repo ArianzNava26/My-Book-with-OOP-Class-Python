@@ -1,4 +1,4 @@
-# OOP Python Practice
+# My Book with OOP Class Python
 
 A small collection of Python scripts for learning Object-Oriented Programming (OOP).
 
